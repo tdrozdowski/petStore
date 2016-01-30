@@ -1,0 +1,12 @@
+{
+  "customerEmail" : "joe@blow.com",
+  "items" : [
+    {
+      "itemName" : "Something Cool",
+      "unitCost" : 999.99,
+      "quantity" : 2,
+      "gift" : false
+    }
+  ],
+  "createdOn" : "2016-01-01T01:15:00"
+}

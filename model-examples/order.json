@@ -1,0 +1,20 @@
+{
+  "customerEmail" : "joe@blow.com",
+  "createdOn" : "2016-01-05T11:05:00",
+  "orderLines" : [
+    {
+      "itemName" : "Something Cool",
+      "unitCost" : 999.99,
+      "quantity" : 2,
+      "gift" : false
+    }
+  ],
+  "deliveryAddress" : {
+    "street1" : "124 Any St",
+    "street2" : null,
+    "city" : "Anytown",
+    "state" : "AS",
+    "zipCode" : "00000-0000",
+    "country" : "Murrica!"
+  }
+}

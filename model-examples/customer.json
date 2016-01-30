@@ -1,0 +1,14 @@
+{
+  "firstName" : "Joe",
+  "lastName" : "Blow",
+  "phone" : "867-5309",
+  "email" : "joe@blow.com",
+  "homeAddress" : {
+    "street1" : "124 Any St",
+    "street2" : null,
+    "city" : "Anytown",
+    "state" : "AS",
+    "zipCode" : "00000-0000",
+    "country" : "Murrica!"
+  }
+}
